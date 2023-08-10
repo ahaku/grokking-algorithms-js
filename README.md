@@ -5,7 +5,7 @@
 - [Бинарный поиск](binarySearch.js)
 - [Сортировка выбором](selectionSort.js)
 - ["Разделяй и властвуй"](splitAndRule.js)
-- [Быстрая сортировка](splitAndRule.js)
+- [Быстрая сортировка](quickSort.js)
 - [Поиск в ширину](breadthFirstSearch.js)
 - [Алгоритм Дейкстры](dijkstraSearch.js)
 
